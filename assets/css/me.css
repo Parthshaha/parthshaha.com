@@ -249,6 +249,10 @@ body.page-template-page-fullsingle-me {
     opacity: 0.4; }
     .credit p.copyright a {
       color: #999999; }
+      .fa{
+       color: aliceblue;
+    }
+    
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
